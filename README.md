@@ -12,6 +12,7 @@ I'm an Information Technology student learning and building projects in Artifici
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Data Analysis
 - Machine Learning
 
 ## 📌 Projects
@@ -24,7 +25,7 @@ I'm an Information Technology student learning and building projects in Artifici
 - Machine Learning
 - AI/ML Algorithms
 - Deep Learning
-
+- Data Science
 ## 🚀 Goal
 
 To build practical AI/ML projects and grow as an AI/ML developer.
