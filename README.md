@@ -18,7 +18,7 @@ I'm an Information Technology student learning and building projects in Artifici
 ## 📌 Projects
 
 - 🏠 Advanced House Price Prediction
-- 🎬 Movie Recommendation System
+- 📚 Book Recommendation System
 
 ## 🎯 Currently Learning
 
