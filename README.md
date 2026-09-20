@@ -19,6 +19,7 @@ I'm an Information Technology student learning and building projects in Artifici
 
 - 🏠 Advanced House Price Prediction
 - 📚 Book Recommendation System
+- 🕵️‍♂️💼 Fake Job Detection
 
 ## 🎯 Currently Learning
 
