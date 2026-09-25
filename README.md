@@ -14,6 +14,8 @@ I'm an Information Technology student learning and building projects in Artifici
 - Scikit-learn
 - Data Analysis
 - Machine Learning
+- Random Forest
+- XGBOOST
 
 ## 📌 Projects
 
