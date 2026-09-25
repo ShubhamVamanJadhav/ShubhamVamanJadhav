@@ -15,7 +15,7 @@ I'm an Information Technology student learning and building projects in Artifici
 - Data Analysis
 - Machine Learning
 - Random Forest
-- XGBOOST
+- XGBoost
 
 ## 📌 Projects
 
